@@ -13,4 +13,4 @@ I have worked with all major authoring platforms, content management systems and
 
 [About me](topics/About%20Me.md)
 
-[Writing samples](topics/About%20Me.md)
+[Writing samples](topics/Writing%20samples.md)
