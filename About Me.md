@@ -69,21 +69,13 @@ University College Dublin
 
 
 | Role | Organisation | Tenure | Description |
-
-| ------------- | ------------- | ------------- | ------------- |
-
+| ----- | ----- | ----- | ------------- |
 | Technical Director | [Lionbridge](lionbridge.com) | 2012 - 2024 | As a founding member, etc. |
-
 | Technical Architect | [Lionbridge](lionbridge.com) | 2008 - 2012 | In this role, etc. |
-
 | Senior Engineer | [Lionbridge](lionbridge.com) | 2004 - 2008 | In this role, etc. |
-
 | Localisation Engineer | [Microsoft](microsoft.com) | 2002 - 2003 | In this role, etc. |
-
 | QA Engineer | [Alpha CRC](alphacrc.com) | 1999 - 2002 | In this role, etc. |
-
-| Bilingual Technical Support Engineer| Quarterdeck \(now [Symantec](https://symantec.com)\) | 1996 - 1999|In this role, etc. |
-
+| Bilingual Technical Support Engineer | Quarterdeck \(now [Symantec](https://symantec.com)\) | 1996 - 1999|In this role, etc. |
 | Technical Support Engineer| Digital \(now [HP](https://hp.com)\) | 1996 - 1999 | In this role, etc. |
 
 
