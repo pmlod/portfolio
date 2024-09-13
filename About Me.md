@@ -6,10 +6,15 @@ I'm also a writer and critic. My most recent novel, *The House on Vesper Sands*,
 ## Contents
 
 [Skills](#skills)
+
 [Education](#education)
+
 [Experience](#experience)
+
 [Languages](#languages)
+
 [Writing samples](#writing-samples)
+
 
 
 ## Skills
