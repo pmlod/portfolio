@@ -1,7 +1,8 @@
 ---
 title: Language complexity
 versions:
-   fpt: *
+  fpt: *
+  ghes: *
 ---
 Language complexity is a challenging problem in linguistics and information theory. No methodologies have yet been identified that account for all markers of complexity across a wide spectrum of languages.
 
