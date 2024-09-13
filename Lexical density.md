@@ -9,8 +9,8 @@ $$
 where:
 
 - $L_d$ is the lexical density of the text, expressed as a percentage;
-- $N_l$ is the number of lexical items. Lexical items are meaningful terms like nouns, verbs and adjectives;
-- $N$ is the total number of words, including both lexical and grammatical items. Grammatical items are words or lexemes (word components) that connect meaningful terms to form clauses or sentences.
+- $N_l$ is the number of lexical items or content words;
+- $N_h$ is the number of clauses or sentences.
 
 
 ## Considerations
