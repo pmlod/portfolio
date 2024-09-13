@@ -1,8 +1,6 @@
 ---
 title: Language complexity
-versions:
-  fpt: *
-  ghes: *
+author: Paraic O'Donnell
 ---
 Language complexity is a challenging problem in linguistics and information theory. No methodologies have yet been identified that account for all markers of complexity across a wide spectrum of languages.
 
@@ -24,7 +22,7 @@ Flesch-Kincaid Grade Level
 
 ## Stylistic complexity features
 
-These checks identify usages and language features that some readers may find difficult. You should consider the needs of your target audience when applying these checks, since the appropriateness of most stylistic features is context-dependent.
+[!NOTE] These checks identify usages and language features that some readers may find difficult. You should consider the needs of your target audience when applying these checks, since the appropriateness of most stylistic features is context-dependent.
 
 Passive voice
 Subordinate or dependent clauses
