@@ -70,7 +70,10 @@ University College Dublin
 
 | Role | Organisation | Tenure | Description |
 | ----- | ----- | ----- | ------------- |
-| Technical Director | [Lionbridge](lionbridge.com) | 2012 - 2024 | As a founding member, etc. |
+| Technical Director | [Lionbridge](lionbridge.com) | 2012 - 2024 | As a founding member of the leadership team for the life sciences practice, I oversaw its technology and compliance strategy throughout its journey to becoming a leading specialist partner to regulated industries.
+
+My role at Lionbridge was highly dynamic, requiring knowledge of disciplines from data protection and dev ops to policy-making and product management, while its strong customer- and market-facing components ensured that I remained in close touch with both regulatory developments and the evolving needs of life sciences enterprises.
+ |
 | Technical Architect | [Lionbridge](lionbridge.com) | 2008 - 2012 | In this role, etc. |
 | Senior Engineer | [Lionbridge](lionbridge.com) | 2004 - 2008 | In this role, etc. |
 | Localisation Engineer | [Microsoft](microsoft.com) | 2002 - 2003 | In this role, etc. |
