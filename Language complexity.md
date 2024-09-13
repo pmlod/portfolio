@@ -11,9 +11,9 @@ In addition to these core language complexity metrics, ContentLab includes check
 
 
 
-- [Lexical density]
+- [Lexical density](Lexical%20density.md)
 
-- [Lexical diversity]
+- [Lexical diversity](Lexical%20diversity.md)
 
 - Sentence length
 
