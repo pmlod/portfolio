@@ -1,18 +1,7 @@
 ---
-tags:
-  - awb
-  - langcomplexity
-  - readability
-  - clinical
-  - regulatory
-  - accessibility
-topic-type: concept
-product: Analysis Workbench
-author: pod
-sme: redacted
-reviewer: redacted
-revision: "1.09"
-date: 09.03.23
+title: Language complexity
+versions:
+   fpt: *
 ---
 Language complexity is a challenging problem in linguistics and information theory. No methodologies have yet been identified that account for all markers of complexity across a wide spectrum of languages.
 
