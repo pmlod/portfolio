@@ -4,19 +4,23 @@ Language complexity is a challenging problem in linguistics and information theo
 
 Nonetheless, a number of statistical techniques have proved useful in assessing language complexity as a measure of relative difficulty for readers of lower proficiency.
 
-
+In addition to these core language complexity metrics, ContentLab includes checks that implement standard readability indices and checks for a range of stylistic complexity markers.
 
 
 ## Core complexity features
 
-[[Lexical density]]
-[[Lexical diversity]]
-Sentence length
+
+
+- [Lexical density]
+
+- [Lexical diversity]
+
+- Sentence length
 
 ## Readability indices
 
-Flesch-Kincaid Reading Ease
-Flesch-Kincaid Grade Level
+- Flesch-Kincaid Reading Ease
+- Flesch-Kincaid Grade Level
 
 ## Stylistic complexity features
 
