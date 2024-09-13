@@ -6,5 +6,5 @@ This is a portfolio repo containing samples of my technical writing projects. Si
 
 I am a native of Dublin, Ireland, so by default I write in Irish English, which shares its spelling conventions with British English. However, since US English predominates in technical writing, my samples have been chosen accordingly. Other aspects of style and terminology may reflect the preferences and conventions of specific user communities.
 
-[[About me]]
-[[Writing samples]]
+[About me]("About Me.md")
+[Writing samples]("Writing samples.md")
