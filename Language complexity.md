@@ -1,7 +1,5 @@
----
-title: Language complexity
-author: Paraic O'Donnell
----
+# Language complexity
+
 Language complexity is a challenging problem in linguistics and information theory. No methodologies have yet been identified that account for all markers of complexity across a wide spectrum of languages.
 
 Nonetheless, a number of statistical techniques have proved useful in assessing language complexity as a measure of relative difficulty for readers of lower proficiency.
@@ -15,7 +13,7 @@ Nonetheless, a number of statistical techniques have proved useful in assessing 
 [[Lexical diversity]]
 Sentence length
 
-Readability indices
+## Readability indices
 
 Flesch-Kincaid Reading Ease
 Flesch-Kincaid Grade Level
