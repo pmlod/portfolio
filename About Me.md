@@ -1,3 +1,4 @@
+# About Me
 
 I'm a veteran technologist and information services professional with decades of experience in the design, delivery and documentation of knowledge solutions. As the technical director for a leading language services provider, I have spent over a decade building responsive and compliant content solutions for regulated industries.
 
@@ -66,34 +67,21 @@ University College Dublin
 
 ## Experience
 
+|Role|Organisation|Tenure|Description
 
-### Technical Director
+|Technical Director|[Lionbridge](lionbridge.com)|2012 - 2024|As a founding member, etc.|
 
-[Lionbridge](lionbridge.com), 2012 - 2024
+|Technical Architect|[Lionbridge](lionbridge.com)|2008 - 2012|In this role, etc.|
 
-### Technical Architect
+|Senior Engineer|[Lionbridge](lionbridge.com)|2004 - 2008|In this role, etc.|
 
-[Lionbridge](lionbridge.com), 2008 - 2012
+|Localisation Engineer|[Microsoft](microsoft.com)|2002 - 2003|In this role, etc.|
 
-### Senior Engineer
+|QA Engineer|[Alpha CRC](alphacrc.com)|1999 - 2002|In this role, etc.|
 
-[Lionbridge](lionbridge.com), 2004 - 2008
+|Bilingual Technical Support Engineer|Quarterdeck \(now [Symantec](https://symantec.com)\)|1996 - 1999|In this role, etc.|
 
-### Localisation Engineer
-
-[Microsoft](microsoft.com), 2002 - 2003
-
-### QA Engineer
-
-[Alpha CRC](alphacrc.com), 1999 - 2002
-
-### Bilingual Technical Support Engineer
-
-[Quarterdeck](symantec.com) (now Symantec), 1996 - 1999
-
-### Technical Support Engineer
-
-[Digital (now HP)](hp.com), 1995 - 1996
+|Technical Support Engineer|Digital \(now [HP](https://hp.com)\)|1996 - 1999|In this role, etc.|
 
 
 ## Writing samples
