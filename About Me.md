@@ -70,7 +70,7 @@ University College Dublin
 
 | Role | Organisation | Tenure | Description |
 
-| ------------- | ------------- || ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 
 | Technical Director | [Lionbridge](lionbridge.com) | 2012 - 2024 | As a founding member, etc. |
 
