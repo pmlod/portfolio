@@ -11,6 +11,6 @@ I am a native of Dublin, Ireland, so by default I write in Irish English, which 
 
 I have worked with all major authoring platforms, content management systems and IDEs, from FrameMaker and Confluence to Oxygen, Obsidian and VSCode. To create this portfolio, I used a minimal tool chain that reflects my personal preferences: VSCode and the Git CLI.
 
-[About me](About%20Me.md)
+[About me](topics/About%20Me.md)
 
-[Writing samples](About%20Me.md)
+[Writing samples](topics/About%20Me.md)
