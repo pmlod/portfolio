@@ -6,10 +6,7 @@ Nonetheless, a number of statistical techniques have proved useful in assessing 
 
 In addition to these core language complexity metrics, ContentLab includes checks that implement standard readability indices and checks for a range of stylistic complexity markers.
 
-
 ## Core complexity features
-
-
 
 - [Lexical density](Lexical%20density.md)
 
@@ -24,7 +21,7 @@ In addition to these core language complexity metrics, ContentLab includes check
 
 ## Stylistic complexity features
 
-[!NOTE] These checks identify usages and language features that some readers may find difficult. You should consider the needs of your target audience when applying these checks, since the appropriateness of most stylistic features is context-dependent.
+> [!NOTE] These checks identify usages and language features that some readers may find difficult. You should consider the needs of your target audience when applying these checks, since the appropriateness of most stylistic features is context-dependent.
 
 Passive voice
 Subordinate or dependent clauses
