@@ -6,5 +6,5 @@ I have produced user guides, online help, release notes, wikis and other content
 
 The samples collected here relate to a proprietary enterprise application that enables users to assess the performance of a content sample.
 
-[Language complexity](topics/Language%20complexity.md)
+[Language complexity](/Language%20complexity.md)
 

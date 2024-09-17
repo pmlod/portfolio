@@ -9,9 +9,9 @@ In addition to these core language complexity metrics, ContentLab implements a n
 
 ## Core complexity features
 
-- [Lexical density](Lexical%20density.md)
+- [Lexical density](/Lexical%20density.md)
 
-- [Lexical diversity](Lexical%20diversity.md)
+- [Lexical diversity](/Lexical%20diversity.md)
 
 - Sentence length
 
