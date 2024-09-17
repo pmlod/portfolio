@@ -19,7 +19,7 @@ where:
 
 As with all content characteristics, measurements of language complexity should be interpreted with due regard to the context and the intended audience for your content. 
 
-Lexical density measurements do not discriminate between "easy" and "difficult" content words. In the same way, common grammatical units can be combined to constructions that may be challenging for some readers. Consider the following examples:
+Lexical density measurements do not discriminate between "easy" and "difficult" content words. Similarly, common grammatical units can be combined to form constructions that some readers will find challenging. Consider the following examples:
 
 >Occasional administration of dopaminergic nutrients is indicated in all domesticated canines.
 
@@ -31,7 +31,8 @@ The second sample has a higher lexical density (78%) than the first (72%), thoug
 ### Adding lexical density to an analysis job
 
 1. In **Analysis Workbench**, open **My analysis jobs**.
-2. Select **New job**.
+2. Select **New analysis job** or **Load analysis job**.
 3. Select the **Language Properties** tab.
-4. Using the **Select Language Properties** tree control, expand the **Complexity** branch and ensure that **Lexical density** is checked.
+4. Using the **Select Language Properties** tree control, expand the **Language complexity** branch and ensure that **Lexical density** is checked.
+5. Select **Save analysis job**.
 
