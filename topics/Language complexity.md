@@ -1,10 +1,11 @@
 # Language complexity
 
-Language complexity is a challenging problem in linguistics and information theory. No methodologies have yet been identified that account for all markers of complexity across a wide spectrum of languages.
+Language complexity is a challenging problem in linguistics and information theory. Languages encode complexity in differing ways, and no widely useful methodologies have been identified that encompass all of these.
 
-Nonetheless, a number of statistical techniques have proved useful in assessing language complexity as a measure of relative difficulty for readers of lower proficiency.
+Nonetheless, a number of statistical techniques have proved valuable in assessing language complexity as a measure of relative difficulty for readers of lower proficiency, though such techniques may be limited in the range of languages to which they can be applied.
 
-In addition to these core language complexity metrics, ContentLab includes checks that implement standard readability indices and checks for a range of stylistic complexity markers.
+In addition to these core language complexity metrics, ContentLab implements a number of standard readability indices and checks for a range of stylistic complexity markers.
+
 
 ## Core complexity features
 
