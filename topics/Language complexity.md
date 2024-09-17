@@ -2,9 +2,9 @@
 
 Language complexity is a challenging problem in linguistics and information theory. Languages encode complexity in differing ways, and no widely useful methodologies have been identified that encompass all of these.
 
-Nonetheless, a number of statistical techniques have proved valuable in assessing language complexity as a measure of relative difficulty for readers of lower proficiency, though such techniques may be limited in the range of languages to which they can be applied.
+Nonetheless, a number of statistical techniques have been shown to correlate with common measurements of reading proficiency, though such techniques may be limited in the range of languages to which they can be applied.
 
-In addition to these core language complexity metrics, ContentLab implements a number of standard readability indices and checks for a range of stylistic complexity markers.
+In addition to these core language complexity metrics, ContentLab implements a number of standard readability indices and checks for a range of stylistic complexity markers. As with all quantitative measures of natural language features, you should consider the context and the needs of the audience when interpreting results.
 
 
 ## Core complexity features
@@ -17,18 +17,18 @@ In addition to these core language complexity metrics, ContentLab implements a n
 
 ## Readability indices
 
+
+
 - Flesch-Kincaid Reading Ease
 - Flesch-Kincaid Grade Level
 
 ## Stylistic complexity features
 
-> [!NOTE] These checks identify usages and language features that some readers may find difficult. You should consider the needs of your target audience when applying these checks, since the appropriateness of most stylistic features is context-dependent.
-
-Passive voice
-Subordinate or dependent clauses
-Subjunctive voice
-Specialist terminology
-Non-inclusive language
+- Passive voice
+- Subordinate or dependent clauses
+- Subjunctive voice
+- Specialist terminology
+- Non-inclusive language
 
 
 ## Guidelines and best practices
