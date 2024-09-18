@@ -10,9 +10,8 @@ The samples collected here relate to a proprietary enterprise application that e
 
 From the online help for a SaaS application for benchmarking content performance.
 
-- [Language complexity](Language complexity.md), an MOC/concept topic
-    - [Lexical density](Lexical density.md), concept and procedure
-    - [Lexical diversity](Lexical diversity.md), concept and procedure
+- [Language complexity](Language%20complexity.md), an MOC/concept topic
+    - [Lexical density](Lexical%20density.md), concept and procedure
+    - [Lexical diversity](Lexical%20diversity.md), concept and procedure
 
-Language complexity
 
