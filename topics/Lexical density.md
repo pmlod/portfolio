@@ -33,5 +33,5 @@ The second sentence has a higher lexical density (69%) than the first (62%), eve
 
 ## See also
 
-- [Lexical diversity]("Lexical diversity.md")
+- [Lexical diversity]("Lexical%20diversity.md")
 
