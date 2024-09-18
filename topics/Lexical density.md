@@ -14,10 +14,10 @@ where:
 
 ## Considerations
 
-Lexical density scores have been shown to correlate well with widely used reading proficiency measures, making them useful in assessing the relative difficulty of a text. However, it measures only one dimension of complexity and makes no distinction between "easy" and "difficult" content words. Consider the following examples.
+Lexical density scores have been shown to correlate well with widely used reading proficiency measures, making them useful in assessing the relative difficulty of a text. However, they represent only one dimension of complexity and make no distinction between "easy" and "difficult" content words. Consider the following examples.
 
 > The occasional administration of dopaminergic nutrients is indicated in all domesticated canines.
->
+
 > All dogs are good dogs who deserve tasty treats.
 
 The second sentence has a higher lexical density (69%) than the first (62%), even though the content words it contains are all common vocabulary items.
@@ -33,5 +33,5 @@ The second sentence has a higher lexical density (69%) than the first (62%), eve
 
 ## See also
 
-- [Lexical diversity](Lexical diversity.md)
+- [Lexical diversity]("Lexical diversity.md")
 
