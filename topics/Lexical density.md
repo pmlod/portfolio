@@ -1,6 +1,7 @@
+[prod_name]: ContentLab
 # Lexical density
 
-Lexical density is a measurement of the complexity of a language sample. It is commonly expressed as the proportion of lexical units (content words) either to functional units (grammatical words) or to higher-level structures such as sentences and clauses. The latter method is the one implemented by {% data variables.vars.PROD_NAME %}.
+Lexical density is a measurement of the complexity of a language sample. It is commonly expressed as the proportion of lexical units (content words) either to functional units (grammatical words) or to higher-level structures such as sentences and clauses. The latter method is the one implemented by [prod_name].
 
 $$
 L_d = \frac{N_l}{N_h} \times 100
