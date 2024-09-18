@@ -2,13 +2,17 @@
 
 ## Technical documentation
 
-I have produced user guides, online help, release notes, wikis and other content categories for a wide range of SaaS applications, desktop applications, tools and frameworks. I also have extensive experience in medical writing and have provided specialist consulting on plain language and accessibility to many life sciences enterprises.
+I have produced user guides, online help, release notes, wikis and other content categories for a wide range of SaaS applications, desktop applications, tools and frameworks.
 
-The samples collected here have been modified to protect the IP of former employers and clients. UX assets, product names and other elements may appear altered or missing.
+The samples collected here relate to a proprietary enterprise application that enables users to assess the performance of a content sample.
 
-[Language complexity](gLanguage%20complexity.md)
+### Online help, ContentLab
 
-## Creative writing
+From the online help for a SaaS application for benchmarking content performance.
 
-My essays and reviews for various publications are collected at https://vspr.st/, where you can also find buy links for my published work.
+- [Language complexity](Language complexity.md), an MOC/concept topic
+    - [Lexical density](Lexical density.md), concept and procedure
+    - [Lexical diversity](Lexical diversity.md), concept and procedure
+
+Language complexity
 
