@@ -1,4 +1,4 @@
-[prod_name]: ContentLab
+[prod_name]: "ContentLab"
 # Lexical density
 
 Lexical density is a measurement of the complexity of a language sample. It is commonly expressed as the proportion of lexical units (content words) either to functional units (grammatical words) or to higher-level structures such as sentences and clauses. The latter method is the one implemented by [prod_name].
