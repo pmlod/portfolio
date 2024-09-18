@@ -73,10 +73,10 @@ University College Dublin
 | Technical Director | [Lionbridge](lionbridge.com) | 2012 - 2024 | As a founding member of the leadership team for the life sciences practice, I oversaw its technology and compliance strategy throughout its journey to becoming a leading specialist partner to regulated industries. My role at Lionbridge was highly dynamic, requiring knowledge of disciplines from data protection and dev ops to policy-making and product management, while its strong customer- and market-facing components ensured that I remained in close touch with both regulatory developments and the evolving needs of life sciences enterprises. |
 | Technical Architect | [Lionbridge](lionbridge.com) | 2008 - 2012 | In this role, I led the technical team for a major business process outsourcing (BPO) engagement for Microsoft. Beginning with the build-out of dedicated secure infrastructure in Beijing, China, I oversaw all aspects of technical service delivery for the lifetime of the engagement, leading a remote team of 25+ engineers and implementing an ambitious and impactful program of automation and optimization. |
 | Senior Engineer | [Lionbridge](lionbridge.com) | 2004 - 2008 | As Senior Engineer, I led teams of localization engineers (both on-site and remote) servicing major IT clients from Microsoft to Amazon. In keeping with Lionbridge’s strong culture of optimization, I also honed my coding skills (C#, Python, JavaScript, CSS and others) for automation purposes. Meanwhile, this role’s significant customer-facing component – including on-site placements with household-name clients – allowed me to cultivate strong communication and advocacy skills. |
-| Localisation Engineer | [Microsoft](microsoft.com) | 2002 - 2003 | In this role, etc. |
-| QA Engineer | [Alpha CRC](alphacrc.com) | 1999 - 2002 | In this role, etc. |
-| Bilingual Technical Support Engineer | Quarterdeck \(now [Symantec](https://symantec.com)\) | 1996 - 1999|In this role, etc. |
-| Technical Support Engineer| Digital \(now [HP](https://hp.com)\) | 1996 - 1999 | In this role, etc. |
+| Localisation Engineer | [Microsoft](microsoft.com) | 2002 - 2003 | At Microsoft, I owned localisation engineering activities for components of the Microsoft Office suite. |
+| QA Engineer | [Alpha CRC](alphacrc.com) | 1999 - 2002 | At AlphaCRC, I developed quality assurance processes for speech recognition systems using Prolog definite clause grammars. |
+| Bilingual Technical Support Engineer | Quarterdeck \(now [Symantec](https://symantec.com)\) | 1996 - 1999|I served as a bilingual support engineer for a range of consumer utility products. |
+| Technical Support Engineer| Digital \(now [HP](https://hp.com)\) | 1996 - 1999 | I got my start in IT providing technical support to users of Windows 95. Yes, I'm that old. |
 
 
 ## Writing samples
