@@ -79,7 +79,6 @@ University College Dublin
 | Technical Support Engineer| Digital \(now [HP](https://hp.com)\) | 1996 - 1999 | I got my start in IT providing technical support to users of Windows 95. Yes, I'm that old. |
 
 
-## Writing samples
+## See also
 
-The writing samples linked to below are drawn from a range of disciplines from traditional product documentation to governance and policy. Some topics have been edited to protect the intellectual property of former employers and clients.
-
+[Writing samples](Writing%20samples.md)
