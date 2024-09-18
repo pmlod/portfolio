@@ -14,14 +14,18 @@ where:
 - $N_w$ is the total number of words;
 - $N_s$ is the number of sample windows tested before the type-token ration falls below the threshold.
 
+## Considerations
 
-## Adding lexical diversity to an analysis job
+MTLD measurements of lexical diversity have been shown to correlate well with common indices of reading proficiency, making them useful in assessing the relative difficulty of a sample text. However, their reliance on arbitary sample sizes and thresholds has been criticised and it is susceptible to skewing caused by type repetition, outlying rarity, and other features. You should interpret lexical diversity scores with due regard for the context and subject matter of your content.
 
-1. In the ContentLab dashboard, click on **My analysis jobs**.
-2. Select **New job**.
+## Adding the Lexical density check to an analysis job
+
+1. In **Analysis Workbench**, open **My analysis jobs**.
+2. Click **New analysis job** or **Load analysis job**.
 3. Select the **Language Properties** tab.
 4. Using the **Select Language Properties** tree control, expand the **Complexity** branch and ensure that **Lexical diversity** is checked.
+5. Click **Save analysis job**.
 
-## Interpreting lexical diversity scores
+## See also
 
-MTLD measurements of lexical diversity have been shown to correlate well with common indices of reading proficiency, making them useful in assessing the relative difficulty of a sample text. However, the reliance of MTLD on arbitary samples sizes and thresholds has been criticised and it is susceptible to skewing caused by type repetition, outlying rarity, and other features. You should interpret lexical diversity scores with due regard for the context and subject matter of your content.
+- [Lexical diversity](Lexical%20diversity.md)
