@@ -1,7 +1,6 @@
-[prod_name]: "ContentLab"
 # Lexical density
 
-Lexical density is a measurement of the complexity of a language sample. It is commonly expressed as the proportion of lexical units (content words) either to functional units (grammatical words) or to higher-level structures such as sentences and clauses. The latter method is the one implemented by [prod_name].
+Lexical density is a measurement of the complexity of a language sample, expressed as the proportion of lexical units (content words) either to functional units (grammatical words) or to higher-level structures such as sentences and clauses. It is given by:
 
 $$
 L_d = \frac{N_l}{N_h} \times 100
@@ -13,20 +12,26 @@ where:
 - $N_l$ is the number of lexical items or content words;
 - $N_h$ is the number of clauses or sentences.
 
+## Considerations
+
+Lexical density scores have been shown to correlate well with widely used reading proficiency measures, making them useful in assessing the relative difficulty of a text. However, it measures only one dimension of complexity and makes no distinction between "easy" and "difficult" content words. Consider the following examples.
+
+> The occasional administration of dopaminergic nutrients is indicated in all domesticated canines.
+>
+> All dogs are good dogs who deserve tasty treats.
+
+The second sentence has a higher lexical density (69%) than the first (62%), even though the content words it contains are all common vocabulary items.
 
 
-
-### Adding lexical density to an analysis job
-
-[!Note]: Languages encode complexity in many ways, and i
+## Adding lexical density to an analysis job
 
 1. In **Analysis Workbench**, open **My analysis jobs**.
-2. Select **New job**.
+2. Click **New analysis job** or **Load analysis job**.
 3. Select the **Language Properties** tab.
 4. Using the **Select Language Properties** tree control, expand the **Complexity** branch and ensure that **Lexical density** is checked.
+5. Click **Save analysis job**.
 
-### Interpreting lexical density scores
+## See also
 
-Language complexity is an active area of research, and many approaches are taken to defining and measuring it. 
+- [Lexical diversity](Lexical diversity.md)
 
-Higher lexical density scores tend to correlate with higher reading difficulty, but you should bear the following
