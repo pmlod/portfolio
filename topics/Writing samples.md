@@ -14,4 +14,6 @@ From the online help for a SaaS application for benchmarking content performance
     - [Lexical density](Lexical%20density.md), concept and procedure
     - [Lexical diversity](Lexical%20diversity.md), concept and procedure
 
+## Medical writing
 
+Content TK.
