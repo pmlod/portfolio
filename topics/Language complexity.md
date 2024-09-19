@@ -1,10 +1,8 @@
 # Language complexity
 
-Language complexity is a challenging problem in linguistics and information theory. Languages encode complexity in differing ways, and no widely useful methodologies have been identified that encompass all of these.
+Language complexity is a challenging problem in linguistics and information theory. Languages encode complexity in many ways, and no methodologies have emerged that account for all of these.
 
-Nonetheless, some statistical approaches have been shown to correlate well with common measurements of reading proficiency, though such techniques may be limited in the range of languages to which they can be applied.
-
-In addition to these core language complexity metrics, ContentLab implements a number of standard readability indices and checks for a range of stylistic complexity markers. As with all quantitative measures of natural language features, you should consider the context and the needs of the audience when interpreting results.
+Nonetheless, some statistical techniques have been shown to correlate well with common measurements of reading proficiency. Additionally, checks focused on complexity, readability, and stylistic discourse markers can be combined to create holistic content performance benchmarks tailored for your audiences and content personas.
 
 
 ## Core complexity features
@@ -29,14 +27,7 @@ In addition to these core language complexity metrics, ContentLab implements a n
 - Non-inclusive language
 
 
-## Guidelines and best practices
 
-These checks can be used to identify language and formatting features corresponding to
-
-Persuasive language
-Numeracy features
-
-
-## References
+## Further reading
 
 Ehret, K. et al, [Measuring language complexity: challenges and opportunities](https://www.researchgate.net/publication/370552963_Measuring_language_complexity_challenges_and_opportunities), *Linguistic Vanguard*, May 2023
