@@ -11,7 +11,7 @@ where:
 - $L_d$ is the lexical density of the text, expressed as a percentage;
 - $N_l$ is the number of lexical items or content words;
 - $N_h$ is the number of clauses or sentences.
-- 
+  
 
 ## Considerations
 
