@@ -26,7 +26,7 @@ The second sentence has a higher lexical density (69%) than the first (62%), eve
 
 ## Adding lexical density to an analysis job
 
-1. In **Analysis Workbench**, open **My analysis jobs**.
+1. In Analysis Workbench, open **My analysis jobs**.
 2. Click **New analysis job** or **Load analysis job**.
 3. Select the **Language Properties** tab.
 4. Using the **Select Language Properties** tree control, expand the **Complexity** branch and ensure that **Lexical density** is checked.
