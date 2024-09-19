@@ -11,6 +11,7 @@ where:
 - $L_d$ is the lexical density of the text, expressed as a percentage;
 - $N_l$ is the number of lexical items or content words;
 - $N_h$ is the number of clauses or sentences.
+- 
 
 ## Considerations
 
@@ -30,6 +31,8 @@ The second sentence has a higher lexical density (69%) than the first (62%), eve
 3. Select the **Language Properties** tab.
 4. Using the **Select Language Properties** tree control, expand the **Complexity** branch and ensure that **Lexical density** is checked.
 5. Click **Save analysis job**.
+
+   
 
 ## See also
 
